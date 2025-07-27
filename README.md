@@ -67,6 +67,7 @@ Para manter o projeto organizado e replicável, a estrutura de pastas é a segui
 ├── visualizations/                  # Pasta para armazenar gráficos e visualizações relevantes geradas durante a EDA e avaliação.
 │
 ├── README.md                        # Este arquivo, com uma visão geral do projeto e instruções.
+```
 
 ## 🚀 Como Executar o Projeto
 
@@ -236,6 +237,7 @@ Este projeto está licenciado sob a [MIT License](https://www.google.com/search?
 
 -----
 
-**Desenvolvido por** [Ananda Matos] - [2025]  
-[Linkedin](https://www.linkedin.com/in/anandamatos/)
+**Desenvolvido por** Ananda Matos - 2025
+
+[Linkedin](https://www.linkedin.com/in/anandamatos/) |
 [Kaggle](https://www.kaggle.com/anandamatos)
